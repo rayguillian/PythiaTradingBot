@@ -103,7 +103,7 @@ class TradingLogger:
             "amount": amount,
             "price": price,
             "strategy": strategy,
-            **additional_data or {}
+            **(additional_data or {})
         }
         self._log_structured(
             logging.INFO,
@@ -123,7 +123,7 @@ class TradingLogger:
             "error_type": type(error).__name__,
             "error_message": str(error),
             "context": context,
-            **additional_data or {}
+            **(additional_data or {})
         }
         self._log_structured(
             logging.ERROR,
