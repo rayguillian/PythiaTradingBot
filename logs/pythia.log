@@ -1,0 +1,245 @@
+2024-12-07 22:08:00,245 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:08:00,245 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:08:00,248 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:08:00,248 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:08:00,248 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:08:00,248 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:08:00,248 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:08:00,248 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:08:00,248 - PythiaBot - ERROR - Failed to start trading bot: 'StrategyConfig' object has no attribute 'initialize'
+2024-12-07 22:08:00,248 - PythiaBot - ERROR - Failed to start trading bot: 'StrategyConfig' object has no attribute 'initialize'
+2024-12-07 22:08:29,142 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:08:29,142 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:08:29,145 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:08:29,145 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:08:29,145 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:08:29,145 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:08:29,145 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:08:29,145 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:08:29,146 - PythiaBot - ERROR - Failed to start trading bot: 'StrategyConfig' object has no attribute 'initialize'
+2024-12-07 22:08:29,146 - PythiaBot - ERROR - Failed to start trading bot: 'StrategyConfig' object has no attribute 'initialize'
+2024-12-07 22:09:11,361 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:09:11,361 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:09:11,364 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:16:50,239 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:16:50,239 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:16:50,242 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:16:50,242 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:16:50,243 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:16:50,243 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:16:50,243 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:16:50,243 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:16:50,243 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:16:50,243 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:20:39,848 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:20:39,848 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:20:39,851 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:23:28,326 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:23:28,326 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:23:28,330 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:26:36,300 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:26:36,300 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:26:36,304 - PythiaBot - INFO - Pythia Trading Bot started successfully
+2024-12-07 22:29:03,243 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:29:03,243 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:29:03,243 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:29:03,243 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:29:03,243 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:29:03,243 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:29:03,243 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:29:03,247 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:29:03,725 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-07 22:29:03,725 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-07 22:30:23,453 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:30:23,453 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:30:23,453 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:30:23,453 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:30:23,453 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:30:23,453 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:30:23,453 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:30:23,457 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:30:23,764 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-07 22:30:23,764 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-07 22:33:20,137 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:33:20,137 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:33:20,137 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:33:20,137 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:33:20,137 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:33:20,137 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:33:20,137 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Configuration validation successful
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processing configuration...
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Exchange configuration processed
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:33:20,141 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-07 22:33:20,491 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-07 22:33:20,491 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:32:56,617 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:32:56,618 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:32:56,618 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:32:56,618 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:32:56,618 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:32:56,618 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:32:56,618 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:32:56,622 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:32:56,950 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:32:56,950 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:35:34,683 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:35:34,683 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:35:34,683 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:35:34,683 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:35:34,683 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:35:34,683 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:35:34,683 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:35:34,687 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:35:34,688 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:35:34,688 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:35:34,688 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:35:34,688 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:35:34,921 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:35:34,921 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:36:53,230 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:36:53,230 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:36:53,230 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:36:53,230 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:36:53,230 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:36:53,230 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:36:53,230 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:36:53,234 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:36:53,474 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:36:53,474 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:40:25,126 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:40:25,126 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:40:25,127 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:40:25,127 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:40:25,127 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:40:25,127 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:40:25,127 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Configuration validation successful
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processing configuration...
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Exchange configuration processed
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processed 2 trading pairs
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processing strategy config: statistical_pattern
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Processed 1 strategy configurations
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Configuration loaded successfully
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:40:25,130 - PythiaBot - INFO - Starting Pythia Trading Bot...
+2024-12-08 12:40:25,579 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
+2024-12-08 12:40:25,579 - PythiaBot - ERROR - Failed to start trading bot: cannot import name 'AsyncClient' from 'binance.client' (/Users/rayguillian/CascadeProjects/PythiaTradingBot/.venv/lib/python3.13/site-packages/binance/client.py)
